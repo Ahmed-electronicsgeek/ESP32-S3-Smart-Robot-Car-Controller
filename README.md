@@ -27,7 +27,7 @@ This project is a feature-rich **All-in-One Robot Controller** based on the **ES
 
 ### 3. Schematic Design
 #### Main System (MCU, Motor Driver & Audio)
-![Schematic Sheet 1](Sheet1.jpg)
+![Schematic Sheet 1](Sheet1.png)
 
 #### LED Signaling & Output Stage
 ![Schematic Sheet 2](Sheet2.png)
